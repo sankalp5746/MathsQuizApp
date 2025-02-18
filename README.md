@@ -1,1 +1,1 @@
-# Mathss Quiz App
+# Maths Quiz App
